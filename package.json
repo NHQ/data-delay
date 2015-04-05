@@ -1,0 +1,48 @@
+{
+  "name": "data-delay",
+  "version": "1.0.0",
+  "description": "general purpose circular delay buffer, now with reverse reads",
+  "main": "delay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:NHQ/data-delay.git"
+  },
+  "keywords": [
+    "data",
+    "delay",
+    "echo"
+  ],
+  "author": {
+    "name": "Johnny Honestly",
+    "email": "mostmodernist@gmail.com",
+    "url": "http://johnnyscript.us/"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/NHQ/data-delay/issues"
+  },
+  "homepage": "https://github.com/NHQ/data-delay",
+  "_id": "data-delay@1.0.0",
+  "dist": {
+    "shasum": "08ae7c4e00d29e934e501cb5d31c4c773a8fc46a",
+    "tarball": "http://registry.npmjs.org/data-delay/-/data-delay-1.0.0.tgz"
+  },
+  "_from": "data-delay@",
+  "_npmVersion": "1.3.14",
+  "_npmUser": {
+    "name": "johnnyscript",
+    "email": "mostmodernist@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "johnnyscript",
+      "email": "mostmodernist@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "08ae7c4e00d29e934e501cb5d31c4c773a8fc46a",
+  "_resolved": "https://registry.npmjs.org/data-delay/-/data-delay-1.0.0.tgz"
+}
